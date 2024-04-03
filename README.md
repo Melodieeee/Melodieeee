@@ -1,4 +1,4 @@
-## <img width="50px" src="https://raw.githubusercontent.com/Melodieeee/Melodieeee/basic/resource/fav.png" />Melody Nien-Chi #Melodieeee
+## <img width="50px" src="https://raw.githubusercontent.com/Melodieeee/Melodieeee/4f7ced59ed5f4e486cc3b2b4e400b1e8cf313a34/resource/fav.png" />Melody Nien-Chi #Melodieeee
 
 Hi, I'm Melody!👋
 
