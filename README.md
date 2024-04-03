@@ -1,16 +1,29 @@
-### Hi there 👋
+## <img width="50px" src="https://raw.githubusercontent.com/Melodieeee/Melodieeee/basic/resource/fav.png" />Melody Nien-Chi #Melodieeee
 
-<!--
-**Melodieeee/Melodieeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Melody!👋
 
-Here are some ideas to get you started:
+## 🧠 That I know and use
+### 📚 Languages and Frameworks
+- Java, Kotlin
+- HTML5
+- CSS3, SCSS, SASS
+- Material-ui, Antd, Bootstrap
+- JavaScript, TypeScript
+- React, Redux, Redux-Saga React-Router, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tool
+- Version Control(Git)
+- Android Studio
+- Test Driven Developer(JUnit)
+
+## 💡 Projects
+- [How’s My Stylist?](https://github.com/Melodieeee/CSIS4175-HMS)
+- [WeBuy](https://github.com/Melodieeee/WeBuy)
+- [PlatStyle](https://github.com/Melodieeee/PlatStyle)
+- [Image Converter](https://github.com/Melodieeee/image_converter)
+
+## 🔗 Get in touch
+- Personal site: http://Melodieeee.github.io/
+- LinkedIn: www.linkedin.com/in/nien-chi-yu
+- Email: nienchiyu@gmail.com
+
