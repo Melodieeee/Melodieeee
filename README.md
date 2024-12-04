@@ -10,15 +10,20 @@ Hi, I'm Melody!👋
 - CSS3, SCSS, SASS
 - Material-ui, Bootstrap
 - JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- MSSQL, MySQL, MongoDB
-
+- React, React-Router, Next.js
+- Python
+  
+### 📚 Database
+- MSSQL, MySQL
+- MongoDB, Firebase
+  
 ### 🔧 Tool
 - Version Control(Git)
 - Android Studio
 - Test Driven Developer(JUnit)
 
 ## 💡 Projects
+- [E-Commerce Website](https://e-commerce-website-git-main-melodieeees-projects.vercel.app)
 - [Image Converter](https://github.com/Melodieeee/image_converter)
 - [WeBuy](https://github.com/Melodieeee/WeBuy)
 - [How’s My Stylist?](https://github.com/Melodieeee/CSIS4175-HMS)
