@@ -1,6 +1,13 @@
 ## <img width="22px" src="https://raw.githubusercontent.com/Melodieeee/Melodieeee/4f7ced59ed5f4e486cc3b2b4e400b1e8cf313a34/resource/fav.png" /> Melody Nien-Chi
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F78DA7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Melody+%F0%9F%91%8B;Full-Stack+Developer+%7C+Creative+Thinker;Loves+Code+%26+Teaching+Tech!" alt="Typing SVG" />
 
+### 🧬 From DNA to DOM
+I started in biotech 🔬, now I debug Java and React apps 💻.
+
+🐱 Say hi to Mocha, my fluffy Ragdoll assistant 🐾 who reviews every line of code!
+
+🎮 [Play My Mini Game](https://melodieeee.github.io/catch-the-cat)
+
 ---
 
 ## 🧠 What I Know & Use
@@ -63,6 +70,7 @@
 - 💇‍♀️ [How’s My Stylist?](https://github.com/Melodieeee/CSIS4175-HMS)
 
 - 🎨 [PlatStyle](https://github.com/Melodieeee/PlatStyle)
+  [🔗 Live Demo](https://platstyle.onrender.com)
 
 ---
 
