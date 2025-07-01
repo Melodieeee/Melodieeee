@@ -4,9 +4,10 @@
 ### 🧬 From DNA to DOM
 I started in biotech 🔬, now I debug Java and React apps 💻.
 
-🐱 Say hi to Mocha, my fluffy Ragdoll assistant 🐾 who reviews every line of code!
+[//]: # (🐱 Say hi to Mocha, my fluffy Ragdoll assistant 🐾 who reviews every line of code!)
 
-🎮 [Play My Mini Game](https://melodieeee.github.io/catch-the-cat)
+[//]: # ()
+[//]: # (🎮 [Play My Mini Game]&#40;https://melodieeee.github.io/catch-the-cat&#41;)
 
 ---
 
@@ -42,6 +43,7 @@ I started in biotech 🔬, now I debug Java and React apps 💻.
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -57,20 +59,17 @@ I started in biotech 🔬, now I debug Java and React apps 💻.
 
 ## 💡 Projects
 
-- 🧭 [Todo Quadrant App](https://github.com/Melodieeee/todo-quadrant-app)  
-  [🔗 Live Demo](https://todo-quadrant-app.vercel.app)
+- 🧭 [Todo Quadrant App](https://github.com/Melodieeee/todo-quadrant-app)&nbsp;&nbsp;*[🔗 Live Demo](https://todo-quadrant-app.vercel.app)*
 
-- 🛍️ [E-Commerce Website](https://github.com/Melodieeee/e-commerce-website)  
-  [🔗 Live Demo](https://e-commerce-website-git-main-melodieeees-projects.vercel.app)
+- 🛍️ [E-Commerce Website](https://github.com/Melodieeee/e-commerce-website)&nbsp;&nbsp;*[🔗 Live Demo](https://e-commerce-website-git-main-melodieeees-projects.vercel.app)*
 
 - 🖼️ [Image Converter](https://github.com/Melodieeee/image_converter)
 
 - 🛒 [WeBuy](https://github.com/Melodieeee/WeBuy)
 
-- 💇‍♀️ [How’s My Stylist?](https://github.com/Melodieeee/CSIS4175-HMS)
+- 🎨 [How’s My Stylist?](https://github.com/Melodieeee/CSIS4175-HMS)
 
-- 🎨 [PlatStyle](https://github.com/Melodieeee/PlatStyle)
-  [🔗 Live Demo](https://platstyle.onrender.com)
+- 💇‍♀️ [PlatStyle](https://github.com/Melodieeee/PlatStyle)&nbsp;&nbsp;*[🔗 Live Demo](https://platstyle.onrender.com)*
 
 ---
 
@@ -78,5 +77,4 @@ I started in biotech 🔬, now I debug Java and React apps 💻.
 
 - 🌐 [Personal Website](http://Melodieeee.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nien-chi-yu)
-- 📧 Email: nienchiyu@gmail.com
-
+- 📧 [Email: nienchiyu@gmail.com](mailto:nienchiyu@gmail.com?subject=Hello%20Melody&body=I%20saw%20your%20portfolio%20on%20Github%20and...)
